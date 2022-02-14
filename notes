@@ -1,0 +1,3 @@
+bash update_node_modules.sh 
+
+run this script everytime after cloning this app OR after everytime you pull code from github OR after deleting node_modules and running yarn

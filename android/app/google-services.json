@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "112074330014",
+    "firebase_url": "https://waspha-ddfea.firebaseio.com",
+    "project_id": "waspha-ddfea",
+    "storage_bucket": "waspha-ddfea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112074330014:android:7be58bd8f97ab4152c908f",
+        "android_client_info": {
+          "package_name": "com.waspha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112074330014-seg9okp0bbq0ftg5b1216g9rihpl0b56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waspha",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "112074330014-nt4m6iqs397jhbq8qohc239f6qlr4ujn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC02UHMQ9s676leN3PC8xoEMXWG92aK8Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112074330014-e1ulem8lh2occjvskesn232tbkpd614b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112074330014-6a8p7ufg4ldln7r9e1nfi08hchglf299.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.waspha"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112074330014:android:a0ca140945053ab62c908f",
+        "android_client_info": {
+          "package_name": "com.wasphaprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112074330014-nt4m6iqs397jhbq8qohc239f6qlr4ujn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC02UHMQ9s676leN3PC8xoEMXWG92aK8Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112074330014-e1ulem8lh2occjvskesn232tbkpd614b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112074330014-6a8p7ufg4ldln7r9e1nfi08hchglf299.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.waspha"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112074330014:android:d53d29b165b40ee62c908f",
+        "android_client_info": {
+          "package_name": "com.wasphaprovider.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112074330014-hnf0pg37lm9tlaedvo7v84t2ikonbe2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wasphaprovider.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "112074330014-nt4m6iqs397jhbq8qohc239f6qlr4ujn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC02UHMQ9s676leN3PC8xoEMXWG92aK8Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112074330014-e1ulem8lh2occjvskesn232tbkpd614b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112074330014-6a8p7ufg4ldln7r9e1nfi08hchglf299.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.waspha"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112074330014:android:cef81fdbc445ef742c908f",
+        "android_client_info": {
+          "package_name": "com.wasphariderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112074330014-njthvja6k4bonsl9rahua7njqcmcu0nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wasphariderapp",
+            "certificate_hash": "ae432caba9cd66523a927e4f4447bd9e11edb33e"
+          }
+        },
+        {
+          "client_id": "112074330014-nt4m6iqs397jhbq8qohc239f6qlr4ujn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC02UHMQ9s676leN3PC8xoEMXWG92aK8Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112074330014-e1ulem8lh2occjvskesn232tbkpd614b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112074330014-6a8p7ufg4ldln7r9e1nfi08hchglf299.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.waspha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
